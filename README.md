@@ -4,7 +4,7 @@ matlab to paython ground truth
 
 
 To achive that you must save the ground truth as tabel , not as ground truth.
-if you have more than one class ,you must do it class by class not (the tabel is only two coulm(image name- boxing))
+if you have more than one class ,you must do it class by class .(the tabel is only two coulm(image name- boxing))
 export gtruth as tabel in workspace
 run the code 
 note
